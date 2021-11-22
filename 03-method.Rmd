@@ -1,0 +1,8 @@
+
+# Methods
+
+We describe several methods here, including
+
+* This
+* That
+* And this
